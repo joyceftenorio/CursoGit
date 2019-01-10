@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+﻿frase=input('Digite a frase a ser cifrada:')
+lista=['a', 'b', 'c', 'd']
+=======
+﻿
+lista1=['a', 'b', 'c', 'd']
+>>>>>>> 6e5ba786d5e2b77e4e99a30148742357b28fae3c
+for x in frase:
+    print(lista1.index(x)+2)
+cifra=input('Digite o número de elementos da cifra:')
+for x in cifra:
+    
+    print(lista(x))
+<<<<<<< HEAD
+alterando
+=======
+
+ola joyce tudo bem 
+comigo esta tudo otimo
+como está o clima ai?
+>>>>>>> 6e5ba786d5e2b77e4e99a30148742357b28fae3c
