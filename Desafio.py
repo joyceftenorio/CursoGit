@@ -9,3 +9,4 @@ for x in cifra:
 
 ola joyce tudo bem 
 comigo esta tudo otimo
+como está o clima ai?
