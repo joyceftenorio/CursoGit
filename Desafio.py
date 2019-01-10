@@ -8,3 +8,4 @@ for x in cifra:
     print(lista(x))
 
 ola joyce tudo bem 
+comigo esta tudo otimo
